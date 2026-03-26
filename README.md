@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="chrome_QINUK3tRZs" src="https://github.com/user-attachments/assets/4136ee0b-a7e0-4033-bec4-f311edbc6f02" />
+<img width="1366" height="768" alt="chrome_jsh1cex75z" src="https://github.com/user-attachments/assets/aa82d9bb-6f3f-469d-8e5f-05f996a55ed9" />
 # AWS-Terraform
 setting up infrastructure on aws using terraform
 
